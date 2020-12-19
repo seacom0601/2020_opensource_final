@@ -43,5 +43,8 @@
 <프로젝트 후보>
 =============
 https://github.com/OpenRCT2/OpenRCT2 : 롤러코스터 타이쿤 관련 오픈소스 레포, c++기반이고, 깔끔한 readme, 체계적인 소통구조
+->분석하기로 선택!!
+
+
 https://github.com/TheAlgorithms/Java : 자바로 쓴 알고리즘, 프로그램이라기보다는 각종 알고리즘을 자바로 작성해놓은 라이브러리 같은 레포, 깔끔함
 https://github.com/github/choosealicense.com : 라이선스를 찾아주는 오픈소스 레포, 다양한 언어가 있으나 유용해보임 위 두가지 레포보다는 덜 깔끔함
